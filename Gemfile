@@ -17,6 +17,8 @@ gem 'webpacker', '~> 5.0'
 gem 'turbolinks', '~> 5'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'annotate'
+gem 'better_errors'
+gem 'binding_of_caller'
 gem 'devise'
 gem 'hamlit'
 gem 'jbuilder', '~> 2.7'
